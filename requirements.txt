@@ -1,0 +1,8 @@
+transformers
+tensorflow
+torch
+torchvision
+torchtext
+torchaudio
+streamlit
+sentencepiece
